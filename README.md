@@ -1,5 +1,7 @@
 # Book Reading + Book Store App UI with Gestures made in Flutter
 How it looks visually and with the gestures:
+
+
 ![](https://media.giphy.com/media/iIGW0trnnpm4Xxbbh9/giphy.gif)
 ## Getting Started
 
