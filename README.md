@@ -1,7 +1,6 @@
-# layout_project_2
-
-A new Flutter project.
-
+# Book Reading + Book Store App UI with Gestures made in Flutter
+How it looks visually and with the gestures:
+![](https://i.imgur.com/4jA2xJL.mp4)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
