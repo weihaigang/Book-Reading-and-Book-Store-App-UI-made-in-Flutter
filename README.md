@@ -3,6 +3,8 @@ How it looks visually and with the gestures:
 
 
 ![](https://media.giphy.com/media/iIGW0trnnpm4Xxbbh9/giphy.gif)
+
+The whole code is contained in the main.dart file in the lib folder.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
